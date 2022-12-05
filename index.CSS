@@ -1,0 +1,28 @@
+h1 {
+    color: white;
+    font-style: italic;
+    font-size: medium;
+    opacity: 100px;
+}
+
+.parent{
+    position: relative;
+    margin-top: auto;
+    margin-left: auto;
+}
+
+.img1{
+    position: relative;
+    margin-top: auto;
+    margin-left: auto;
+    border:1px dotted burlywood
+}
+.text1{
+    position: relative;
+    top: auto;
+    right: auto;
+    left: auto;
+}
+.body{
+    background-color: brown;
+}
